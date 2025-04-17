@@ -191,38 +191,6 @@ Consider three processes: P1, P2, and P3 with arrival times 5, 10, and 15 respec
   
 
 
-# AI PROMPT IMAGES
-
-# SYSCOUNT
-
-![Screenshot from 2024-10-14 00-20-48](https://github.com/user-attachments/assets/c87d0cb2-dee3-45a0-a7d2-f314b5ebbef2)
-
-![Screenshot from 2024-10-14 00-20-57](https://github.com/user-attachments/assets/60801b86-a15c-47ec-af7b-b72eaaff5225)
-
-![Screenshot from 2024-10-14 00-21-04](https://github.com/user-attachments/assets/9af7ea23-4bd9-4ec9-a0f0-d96511f27964)
-
-![Screenshot from 2024-10-14 00-21-30](https://github.com/user-attachments/assets/1b24dfc7-1b60-4d06-86c5-e60cc3d3dce2)
-
-![Screenshot from 2024-10-14 00-21-34](https://github.com/user-attachments/assets/d6907723-c5f6-4a47-8312-dc914dc71e5a)
-
-![Screenshot from 2024-10-14 00-22-05](https://github.com/user-attachments/assets/a49c7277-9061-4eb7-b912-b300ac086198)
-
-![Screenshot from 2024-10-14 00-22-13](https://github.com/user-attachments/assets/fc47aeb0-a7d3-4b60-9d64-30313cbe7309)
-
-
-# SIGALARM
-
-![Screenshot from 2024-10-14 00-48-48](https://github.com/user-attachments/assets/cef27bf9-29f1-4bca-99c5-34cef55629de)
-
-![Screenshot from 2024-10-14 00-53-21](https://github.com/user-attachments/assets/3678ca81-bc1a-491b-aabd-1008b418d9ee)
-
-![Screenshot from 2024-10-14 00-53-37](https://github.com/user-attachments/assets/c2eecdb9-c9a9-4c7d-8163-2fcbdeb3362d)
-
-
-
-
-
-
 
 
 
